@@ -19,6 +19,8 @@ The difference is the size of the svg file is less than the compression file. Th
 ### Class vs. Object. a Class is a template for objects; however an object is a member or an instance of a class.
 Instantiate an object from a class means that you define one particular variation of object within a class, giving it a name.
 .  [IT1025WebSite.zip](https://github.com/Schellry/IT1025-1/files/7360595/IT1025WebSite.zip)
+![SharkObjects](https://user-images.githubusercontent.com/89929757/137646430-36f479fc-e266-4282-b76e-01d2480db6fb.png)
+
 
 ## Object Oriented Concepts
 ### Instantiated Objects
