@@ -19,15 +19,19 @@ The difference is the size of the svg file is less than the compression file. Th
 ### Class vs. Object. a Class is a template for objects; however an object is a member or an instance of a class.
 Instantiate an object from a class means that you define one particular variation of object within a class, giving it a name.
 .  [IT1025WebSite.zip](https://github.com/Schellry/IT1025-1/files/7360595/IT1025WebSite.zip)
-![SharkObjects](https://user-images.githubusercontent.com/89929757/137646430-36f479fc-e266-4282-b76e-01d2480db6fb.png)
-
+![SharkObjects](https://user-images.githubusercontent.com/89929757/137648726-8525e546-2683-4f53-95fe-033d0d5b54ea.png)
 
 ## Object Oriented Concepts
 ### Instantiated Objects
+The instantiated objects of the shark class are Sammy and Stevie.
 ### Inheritance
+Inheritance in OOP is the procedure in which one class inherits the attributes and methods of another class. 
+An example related to the shark class is Sammy which is inherit the attributes of Shark class as Swim and Be_awesome.
 ### Encapsulation and Abstraction
-
+The way encapsulation and abstraction are related to the shark class is the define process use to describe the project.
 ## Unified Modeling Language (UML)
+![SharkClass](https://user-images.githubusercontent.com/89929757/137650633-085f53ed-6d86-40ea-9010-98db69637843.jpg)
+
 
 ## Conclusion
-Include your conclusion here...
+In conclusion, this course was interesting. I can say that this class was important in the scope of my study. I have learned a lot about IT system that will me explore my interests in IT while preparing for future courses and my ultimate career in IT. Finally, I am good at using GitHub. It was a big plus in my career. After the course is over, I am going to take sometimes reviewing the modules step by step, doing more practice for me to get more used to them, and specially be able to create my own webpage.
