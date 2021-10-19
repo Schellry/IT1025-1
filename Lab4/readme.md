@@ -11,6 +11,8 @@ Include your executive summary here...
 [hellopy.txt](https://github.com/Schellry/IT1025-1/files/7369655/hellopy.txt)
 [NewFileCommandPrompt.txt](https://github.com/Schellry/IT1025-1/files/7369668/NewFileCommandPrompt.txt)
 ![CMDOutput](https://user-images.githubusercontent.com/89929757/137835000-1fc8bc50-f472-41b1-a993-14053ed2ec98.PNG)
+[Chelry_Delgarde_Resume.DOCX](https://github.com/Schellry/IT1025-1/files/7369792/Chelry_Delgarde_Resume.DOCX)
+
 
 
 
