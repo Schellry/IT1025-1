@@ -11,22 +11,26 @@ Include your executive summary here...
 [hellopy.txt](https://github.com/Schellry/IT1025-1/files/7369655/hellopy.txt)
 [NewFileCommandPrompt.txt](https://github.com/Schellry/IT1025-1/files/7369668/NewFileCommandPrompt.txt)
 ![CMDOutput](https://user-images.githubusercontent.com/89929757/137835000-1fc8bc50-f472-41b1-a993-14053ed2ec98.PNG)
-[Chelry_Delgarde_Resume.DOCX](https://github.com/Schellry/IT1025-1/files/7369792/Chelry_Delgarde_Resume.DOCX)
 
 
 
 
 ## Code Examples
-### Variable:
-### Assignment statement:
-### Function:
-### Three data types:
+### Variable: Variables are just parts of your computer's memory where you store some information.
+### Assignment statement: Is a statement that assigns a value to a name or a vairiable.
+### Function: A fonction is a block of code that only runs when it is called.
+### Three data types: The 3 data types are int(integer numbers). double(decimal numbers), and character(char).
 
 ## Graphics
 
 ### Raster vs. Vector Graphics
+Raster graphics are composed of colored pixels arranged to display an image,  Vector graphics in the other hand are made up of paths,
+each with a mathecial  formula(vector) that tells the path how it is shaped.
 ### Lossless vs. Lossy Compression
+It is matter because the benefit and advantage of lossless compression are that it allows you to retain the quality of your images
+while reducing their file size.
 ### File Formats
+
 ### File Properties
 
 ## Conclusion
