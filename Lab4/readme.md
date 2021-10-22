@@ -19,6 +19,8 @@ Include your executive summary here...
 ### Three data types: The 3 data types are int(integer numbers). double(decimal numbers), and character(char).
 
 ## Graphics
+file:///C:/Users/Chelry%20Delgarde/Downloads/Untitled.svg
+
 ### Raster vs. Vector Graphics
 Raster graphics are composed of colored pixels arranged to display an image,  Vector graphics in the other hand are made up of paths,
 each with a mathecial  formula(vector) that tells the path how it is shaped.
