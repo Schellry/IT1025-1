@@ -25,12 +25,18 @@ The types of technology that have driven the increased need for big data are: Ar
 
 ## Structured Query Language (SQL) 
 ### RDBMS and SQL
+RDBMS is a relational database managment software. RDBMS is relates to SQL by using SQL for manipulation of databases. The purpose of SQL is to let you access and manipulate databases.
 ### Relationship, Primary and Foreign Keys
 
 ## SQL Injections
+SQL Injections are a security Threat because it can result in confidential data being deleted, lost or stolen,websites being defaced,
+unauthorized access to systems or accounts and, ultimatel, compromize of individual machines of entire networks.
+To reduce such threats you can use SQL parameters. SQL parameters are values that are added to an SQL query at execution time, in a controlled manner.
 
 ## Ethical and Legal Implications
 ### Code of Ethics
+The purpose of a "code of ethics is to set out organition's ethical guidelines and best practices to follow for honesty, integrity, and professionalism.
+THe AMC created the code of ethics to inspire and guide the ethical conduct of all computing professionals, including current and aspiring practitioners, instructors, students, influencers, and anyone who uses computing technology in an impactful way.
 ### Intellectual Property
 ### Information Collection
 
