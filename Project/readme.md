@@ -8,6 +8,8 @@ the career center. This process also included a final resume revisions and appro
 ### Part Part 1: Project Intent and Plan
 
 [Chelry_Delgarde_Resume.DOCX](https://github.com/Schellry/IT1025-1/files/7376951/Chelry_Delgarde_Resume.DOCX)
+![SQL Suppliers](https://user-images.githubusercontent.com/89929757/138574058-8b97bc95-3269-4a17-8109-be82a03d37d6.PNG)
+
 
 Describe the process you will take to become co-op ready (include dates of seminars you will plan if you elect Option 1 OR, a brief description of the project you plan to implement (programming, research etc.)
 I have 5 steps to take to become a co-op ready.   1) I have to Complete the "Co-op Student Application of Interest" form and submit it to the career center. 
