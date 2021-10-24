@@ -1,7 +1,11 @@
 ## Your Name / Date
 
-## Executive Summary 
-Include your executive summary here...
+## Executive Summary
+In this Chapter we will examine the fundamental concepts related to relational and various types of databases. 
+Compare and contrast: Data, Information and Knowledge. What are primary keys, Relationship between table,
+explain What is a foreign key. We will explore the database language SQL. Practice building SQL statements to retrieve and examine the security 
+threats posed by SQL injections. Also explore the database language SQL, key ethical and legal implications in the discipline 
+of information systems. Explain RDBMS and how it relates to SQL and the purpose of SQL. 
 
 ## Data, Information and Knowledge
 ### Compare and contrast data, information and knowledge
@@ -38,7 +42,10 @@ To reduce such threats you can use SQL parameters. SQL parameters are values tha
 The purpose of a "code of ethics is to set out organition's ethical guidelines and best practices to follow for honesty, integrity, and professionalism.
 THe AMC created the code of ethics to inspire and guide the ethical conduct of all computing professionals, including current and aspiring practitioners, instructors, students, influencers, and anyone who uses computing technology in an impactful way.
 ### Intellectual Property
+ The role of a trademark in defining the intellectual property is to help a business to differenciate what they make, do or sell from their competitor's offerings.
+ It isimportant to copyright the svg image created because with my logo my business will  be recognize and attractive to consumers through the use of my exclusive logo, and no other will be permitted to use my logo. 
 ### Information Collection
+The way COPPA, FERPA and HIPPA restrict the collection of information on the Internet is: The students records in their program are not health recordswhen the program is administered by an Education Agency(EA), but because clinicians also use some of their programs, they have added extra levels of confidentiality protection that are not used by other social-emotional learning programs, this include: Protection within the Software, The Data Location, Privacy Protection with their Cloud-based Server, and Internal policies limit unauthorized access to student data.
 
 ## Conclusion
 Include your conclusion here...
