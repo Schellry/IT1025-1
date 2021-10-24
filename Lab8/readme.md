@@ -45,3 +45,7 @@ The way COPPA, FERPA and HIPPA restrict the collection of information on the Int
 Conclusion
 We finally come to the end of this course. I can say, taking this course was a good start for me on my career path. Each chapter content covered a lot of knowledge of the IT Program for which I am enroll. Specially This chapter, it plays a key role in the IT systems. First SQL who lets you access and manipulate data, also learning about how to prevent SQL injections was helpful. At the end as an IT Students I was glad to learn about the code ethics, that helps me be aware of the rules and guidelines in the IT field.
 
+![SQL Suppliers](https://user-images.githubusercontent.com/89929757/138576375-cb58254e-4468-46f4-92b4-b41ea6601990.PNG)
+![SQLProductsGT40](https://user-images.githubusercontent.com/89929757/138576384-45264be9-b8df-4351-b416-80b5feb93da5.PNG)
+
+
