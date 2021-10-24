@@ -1,4 +1,4 @@
-## Your Name / Date
+## Chelry Delgarde / 10/23/2021
 
 ## Executive Summary
 In this Chapter we will examine the fundamental concepts related to relational and various types of databases. 
@@ -48,4 +48,7 @@ THe AMC created the code of ethics to inspire and guide the ethical conduct of a
 The way COPPA, FERPA and HIPPA restrict the collection of information on the Internet is: The students records in their program are not health recordswhen the program is administered by an Education Agency(EA), but because clinicians also use some of their programs, they have added extra levels of confidentiality protection that are not used by other social-emotional learning programs, this include: Protection within the Software, The Data Location, Privacy Protection with their Cloud-based Server, and Internal policies limit unauthorized access to student data.
 
 ## Conclusion
-Include your conclusion here...
+We finally come to the end of this course. I can say, taking this cours was a good start for me on my career path.
+Each chapter content covered a lot of knowledge of the IT Program that I am enroll for. Specially This chapter, 
+it plays  a big role in the IT systems. First SQL who lets you access and manipulate data, also learning about how to prevent SQL injections
+was very helpful. At the end as an IT Students I was glad to learn aboud the code ethics, that helps aware of the rules and guidelines in the IT field.
